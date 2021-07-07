@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.df6655ce.chunk.css",
-    "main.js": "/static/js/main.094845a9.chunk.js",
-    "main.js.map": "/static/js/main.094845a9.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.95c5d230.js",
-    "runtime-main.js.map": "/static/js/runtime-main.95c5d230.js.map",
-    "static/js/2.600d3970.chunk.js": "/static/js/2.600d3970.chunk.js",
-    "static/js/2.600d3970.chunk.js.map": "/static/js/2.600d3970.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.466d51592591398b383266d9feef9240.js": "/precache-manifest.466d51592591398b383266d9feef9240.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.df6655ce.chunk.css.map": "/static/css/main.df6655ce.chunk.css.map"
+    "main.css": "/puckfried/lifecycle/static/css/main.df6655ce.chunk.css",
+    "main.js": "/puckfried/lifecycle/static/js/main.abf02210.chunk.js",
+    "main.js.map": "/puckfried/lifecycle/static/js/main.abf02210.chunk.js.map",
+    "runtime-main.js": "/puckfried/lifecycle/static/js/runtime-main.c78685ea.js",
+    "runtime-main.js.map": "/puckfried/lifecycle/static/js/runtime-main.c78685ea.js.map",
+    "static/js/2.600d3970.chunk.js": "/puckfried/lifecycle/static/js/2.600d3970.chunk.js",
+    "static/js/2.600d3970.chunk.js.map": "/puckfried/lifecycle/static/js/2.600d3970.chunk.js.map",
+    "index.html": "/puckfried/lifecycle/index.html",
+    "precache-manifest.f98ef9ab0c3f24b0c5a975b0ebc31d2b.js": "/puckfried/lifecycle/precache-manifest.f98ef9ab0c3f24b0c5a975b0ebc31d2b.js",
+    "service-worker.js": "/puckfried/lifecycle/service-worker.js",
+    "static/css/main.df6655ce.chunk.css.map": "/puckfried/lifecycle/static/css/main.df6655ce.chunk.css.map"
   }
 }
